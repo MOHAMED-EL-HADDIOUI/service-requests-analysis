@@ -1,6 +1,4 @@
-# NYC 311 Customer Service Requests Analysis
-
-**Author**: Shirsendu Koner  
+# Customer Service Requests Analysis
 **Project**: Customer Service Requests Analysis  
 **Tools**: Python, NumPy, Pandas, Matplotlib, Seaborn, SciPy  
 
@@ -42,7 +40,7 @@ This analysis focuses on data wrangling techniques and visualization to extract 
 
 Before running the project, ensure you have the following installed:
 
-- Python 3.7+
+- Python 3.9+
 - NumPy, Pandas, Matplotlib, Seaborn, SciPy
 
 You can install the required libraries by running:
